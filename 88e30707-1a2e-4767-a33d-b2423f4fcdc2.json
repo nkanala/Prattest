@@ -1,1 +1,0 @@
-[{"srcDbType":"Salesforce","srcAccount":"salesforce_acct","srcAccount2":"","srcSchema":"CS37","tableList":[{"label":"UserRole","key":"UserRole 1138","value":"UserRole","name":"UserRole","level":1,"isFirst":false,"state":{"expand":true,"checked":true},"loadMethod":"reload"}],"tgtDbType":"Snowflake","tgtAccount":"sf_acct","tgtSchema":"FDLSCH","taskId":"630417c8f02cd89a3ddec829"}]
